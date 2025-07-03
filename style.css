@@ -1,0 +1,38 @@
+body {
+    font-size: 16px;
+    font-family: sans-serif;
+
+}
+
+button {
+    color: darkblue;
+}
+
+button:hover {
+    color: salmon;
+}
+
+.blog {
+    color: darkblue;
+    text-decoration-style: solid;
+    text-align: justify;
+}
+
+footer {
+    color: darkblue;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    color: darkblue;
+}
+
+#one {
+    text-align: justify;
+}
+
+h3 {
+    color: darkblue;
+}
+
